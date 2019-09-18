@@ -244,3 +244,40 @@ pre[class*="language-"] {
 .token.entity {
 	cursor: help;
 }
+
+
+/* utilities */
+
+@responsive {
+	.flex {
+		display: flex;
+	}
+	.flex > * {
+		flex-grow: 1;
+	}
+	.flex-o > * {
+		flex-basis: auto;
+	}
+	.w-200 {
+		width: 200px;
+		flex-grow: 0 !important;
+		flex-shrink: 0;
+	}
+	.remove-margin > * {
+		margin-top: unset;
+		margin-bottom: unset;
+	}
+	.remove-margin > * > :first-child {
+			margin-top: unset;
+		}
+
+	.remove-margin > * > :last-child {
+		margin-bottom: unset;
+	}
+}
+
+/* Typography */
+
+a:hover {
+	background-color: black;
+}

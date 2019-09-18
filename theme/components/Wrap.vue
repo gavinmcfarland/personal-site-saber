@@ -8,16 +8,16 @@
         <slot name="header">
           <saber-link to="/cv">CV</saber-link>
           <saber-link to="/projects">Projects</saber-link>
-          <saber-link to="/about">About</saber-link>
         </slot>
       </div>
     </header>
     <main class="Body">
       <slot></slot>
     </main>
-    <footer class="Footer w-viewport p-10">
+    <footer class="Footer w-viewport p-10 flex remove-margin">
       <slot name="footer">
-        <p>Limitless Loop Ltd © 2019</p>
+        <p class="gray">Limitless Loop &copy; 2019</p>
+        <saber-link to="/about" class="w-content">About</saber-link>
       </slot>
     </footer>
   </div>
@@ -35,5 +35,9 @@
 .Navbar a {
   margin-left: 20px;
   line-height: 32px;
+}
+
+.w-content {
+  flex-grow: 0;
 }
 </style>

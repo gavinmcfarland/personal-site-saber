@@ -1,8 +1,8 @@
 <template>
   <Wrap>
-    <Section v-for="section in sections">
-      <h2>{{ section.heading }}</h2>
-      <span v-html="markdown(section.content)"></span>
+    <Section v-for="section in sections" :key="section" class="bt">
+      <h2 class="md:w-200 f-caps f-0">{{ section.heading }}</h2>
+      <div v-html="markdown(section.content)"></div>
     </Section>
     <slot />
   </Wrap>

@@ -20,6 +20,7 @@
     "nprogress": "^0.2.0",
     "phtml": "^4.1.0",
     "phtml-loader": "^1.1.0",
+    "postcss-responsify": "^1.0.3",
     "posthtml": "^0.11.6",
     "posthtml-loader": "^1.0.1",
     "pug": "^2.0.4",
