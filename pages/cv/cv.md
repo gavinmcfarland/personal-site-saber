@@ -1,5 +1,5 @@
 ---
-layout: Layout
+layout: cv
 permalink: /cv
 ---
 

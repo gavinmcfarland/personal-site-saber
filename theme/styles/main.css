@@ -39,7 +39,7 @@ body {
 	height: 100%;
 }
 
-#app {
+#_saber {
 	height: 100%;
 }
 
@@ -57,7 +57,7 @@ body {
 }
 
 .App > .Footer,
-.App > .Navbar {
+.App > .Header {
 	flex-grow: 0;
 }
 
@@ -73,6 +73,10 @@ body, html {
  * Based on dabblet (http://dabblet.com)
  * @author Lea Verou
  */
+
+pre {
+	white-space: pre-wrap;
+}
 
 [class*="language-"] {
 	position: relative;
