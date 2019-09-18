@@ -109,14 +109,14 @@
               }
             },
 {
-              path: "/posts/blog",
+              path: "/posts",
               meta: {
-                __relative: 'posts/blog.md',
-                __pageId: '0e6632f0'
+                __relative: 'posts/posts.md',
+                __pageId: '130c57a5'
               },
               component: function() {
                 
-                return import(/* webpackChunkName: "page--posts-blog-md" */ "/Users/limitlessloop/Repos/personal-site-saber/pages/posts/blog.md?saberPage=0e6632f0")
+                return import(/* webpackChunkName: "page--posts-posts-md" */ "/Users/limitlessloop/Repos/personal-site-saber/pages/posts/posts.md?saberPage=130c57a5")
                 
               }
             },
