@@ -1,0 +1,168 @@
+{
+  "publicPath": "/_saber/",
+  "all": [
+    "images/first-post.0f59aafe.png",
+    "images/second-post.fe4ec4fc.png",
+    "js/404-page.2ef7e351.js",
+    "js/client.f98892f1.js",
+    "js/page--_posts-cant-belive-md.ac1e3c91.js",
+    "js/page--_posts-even-more-md.14c211a8.js",
+    "js/page--_posts-first-post-md.27c36485.js",
+    "js/page--_posts-if-only-md.2683bbb1.js",
+    "js/page--_posts-let-there-be-more-md.4d842ca2.js",
+    "js/page--_posts-second-post-md.d9514a40.js",
+    "js/page--about-md.91413463.js",
+    "js/page--blog-md.abf1249d.js",
+    "js/page--contact-md.94ef46a1.js",
+    "js/page--cv-index-md.f8546e9d.js",
+    "js/page--index-md.23881ea4.js",
+    "js/page--test-adoc.2c02bda4.js"
+  ],
+  "initial": [
+    "js/client.f98892f1.js"
+  ],
+  "async": [
+    "js/404-page.2ef7e351.js",
+    "js/page--_posts-cant-belive-md.ac1e3c91.js",
+    "js/page--_posts-even-more-md.14c211a8.js",
+    "js/page--_posts-first-post-md.27c36485.js",
+    "js/page--_posts-if-only-md.2683bbb1.js",
+    "js/page--_posts-let-there-be-more-md.4d842ca2.js",
+    "js/page--_posts-second-post-md.d9514a40.js",
+    "js/page--about-md.91413463.js",
+    "js/page--blog-md.abf1249d.js",
+    "js/page--contact-md.94ef46a1.js",
+    "js/page--cv-index-md.f8546e9d.js",
+    "js/page--index-md.23881ea4.js",
+    "js/page--test-adoc.2c02bda4.js"
+  ],
+  "modules": {
+    "62776874": [
+      3
+    ],
+    "2f87e646": [
+      3
+    ],
+    "6985fef2": [
+      3
+    ],
+    "7f74d8d0": [
+      3
+    ],
+    "701951ac": [
+      3
+    ],
+    "2f676bc0": [
+      3
+    ],
+    "b9d8d204": [
+      3
+    ],
+    "019c0664": [
+      3
+    ],
+    "7113c95e": [
+      3
+    ],
+    "54682b88": [
+      3
+    ],
+    "3cac5f96": [
+      3
+    ],
+    "24f025ae": [
+      3
+    ],
+    "254baacb": [
+      3
+    ],
+    "7d1c7836": [
+      3
+    ],
+    "761e8988": [
+      3
+    ],
+    "0802cba4": [
+      3
+    ],
+    "464538ee": [
+      3
+    ],
+    "96f77b86": [
+      3
+    ],
+    "a6ab45d2": [
+      3
+    ],
+    "05cf051a": [
+      3
+    ],
+    "bbcb7224": [
+      3
+    ],
+    "7d94ea1b": [
+      3
+    ],
+    "da5221de": [
+      3
+    ],
+    "5a37d069": [
+      3
+    ],
+    "0e089d7c": [
+      3
+    ],
+    "68378b06": [
+      3
+    ],
+    "534f06ac": [
+      6,
+      0
+    ],
+    "a87b65fc": [
+      9,
+      1
+    ],
+    "51f8d4ea": [
+      6,
+      0
+    ],
+    "05ad7cf1": [
+      9,
+      1
+    ],
+    "b13999f4": [
+      15
+    ],
+    "5ac3fdbd": [
+      4
+    ],
+    "2a505481": [
+      5
+    ],
+    "2ae35d7f": [
+      7
+    ],
+    "e95c6da0": [
+      8
+    ],
+    "7b02a951": [
+      10
+    ],
+    "5997b01e": [
+      11
+    ],
+    "4e8506ac": [
+      12
+    ],
+    "00c219c7": [
+      13
+    ],
+    "20e01f66": [
+      14
+    ],
+    "5fc3adea": [
+      2
+    ]
+  }
+}
