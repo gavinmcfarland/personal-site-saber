@@ -263,6 +263,12 @@ pre[class*="language-"] {
 		flex-grow: 0 !important;
 		flex-shrink: 0;
 	}
+	.cols-2 {
+		column-count: 2;
+	}
+	.gap-2 > * {
+		margin-bottom: 20px;
+	}
 	.remove-margin > * {
 		margin-top: unset;
 		margin-bottom: unset;
